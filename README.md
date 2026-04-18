@@ -39,7 +39,7 @@ Para mantener el orden y la integridad del proyecto, todos los subordinados debe
 
 1. Clonar el repositorio:
    ```bash
-   git clone [URL-DEL-REPO]
+   git clone https://github.com/ShadowRoot07/Mystery-of-the-limb-PC.git
     ```
 
 2. Abrir el proyecto directamente desde el Unity Hub usando la versión 6.0 LTS.
