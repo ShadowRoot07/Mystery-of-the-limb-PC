@@ -45,3 +45,5 @@ Para mantener el orden y la integridad del proyecto, todos los subordinados debe
 2. Abrir el proyecto directamente desde el Unity Hub usando la versión 6.0 LTS.
 
 3. Asegurarse de que el Project Settings no marque errores de compilación antes de empezar a trabajar.
+
+**Nota para el equipo:** He adelantado la arquitectura base en C#. Al abrir el proyecto por primera vez, dejen que Unity genere los archivos .meta antes de hacer su primer commit.
